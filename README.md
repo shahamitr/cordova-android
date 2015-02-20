@@ -1,27 +1,19 @@
 # cordova-android
+
 working demo of android application development
 
 This repository contains working demo of following pluings.
+
 •	Device
-
 •	Camera
-
 •	Contacts
-
 •	Battery Status
-
 •	Network Information
-
 •	SQLite plugin
-
 •	Social Share
-
 •	Geolocation
-
 •	Globalization
-
 •	Dialog
-
 •	File system
 
 
