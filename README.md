@@ -1,6 +1,6 @@
 # cordova-android
-# author: Amit Shah, Pratik Panchal
-# creted: 20-Feb-2015
+##### author: Amit Shah, Pratik Panchal
+##### creted: 20-Feb-2015
 
 working demo of android application development
 
